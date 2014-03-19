@@ -1,0 +1,28 @@
+{
+  "name": "drons-club",
+  "version": "0.0.0",
+  "description": "lets see some tweets!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jftesser/drones_club"
+  },
+  "keywords": [
+    "heroku",
+    "twitter",
+    "wodehouse"
+  ],
+  "author": "McGarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jftesser/drones_club/issues"
+  },
+  "homepage": "https://github.com/jftesser/drones_club",
+  "dependencies": {
+    "logfmt": "^1.0.0-pre3",
+    "express": "^3.4.8"
+  }
+}
